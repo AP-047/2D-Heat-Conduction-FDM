@@ -1,9 +1,10 @@
 ## Finite Difference Analysis for 2D Heat Conduction ##
 <br>
-Overview
+** Overview **
+<br>
 This project applies the Finite Difference Method (FDM) to solve a stationary 2D heat conduction problem, showcasing the practical application of FDM in simulating real-world thermal behavior.
 <br>
-Objectives
+**Objectives**
 Develop a numerical solution using MATLAB for a 2D heat conduction problem within a rectangular region.
 Analyze temperature distribution under specified boundary conditions.
 Visualize the thermal gradient using color contour plots.
