@@ -14,6 +14,7 @@ This project leverages the Finite Difference Method to model the thermal distrib
 
 ## Results
 The simulation outcomes correlate well with the ANSYS verifications, confirming the effectiveness of the FDM in heat conduction modeling.
+![eqn](./assets/images/Temperature Distribution.png)
 
 ## Usage
 The repository includes detailed setup instructions and commented MATLAB scripts for replicability and understanding.
