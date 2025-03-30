@@ -1,7 +1,7 @@
 # Finite Difference Analysis for 2D Heat Conduction
 
 ## Overview
-This project leverages the Finite Difference Method to model the thermal distribution in a 2D space, aligning with MATLAB's computational capabilities and verified against ANSYS results.
+Collaborated in a team of 3 to develop a numerical approximation for 2D heat conduction using MATLAB. This project leverages the Finite Difference Method to model the thermal distribution in a 2D space, aligning with MATLAB's computational capabilities and verified against ANSYS results.
 
 ## Methodology
 - **FDM Implementation**: Discretized the heat conduction equation using FDM.
